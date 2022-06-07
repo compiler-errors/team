@@ -1,0 +1,70 @@
+{
+  "name": "mods",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Khionu Sybiern",
+      "github": "khionu",
+      "github_id": 11195266,
+      "is_lead": false
+    },
+    {
+      "name": "Joshua Gould",
+      "github": "technetos",
+      "github_id": 10949810,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Andrew Gallant",
+      "github": "BurntSushi",
+      "github_id": 456674,
+      "is_lead": false
+    },
+    {
+      "name": "Andre Bogus",
+      "github": "llogiq",
+      "github_id": 4200835,
+      "is_lead": false
+    },
+    {
+      "name": "Matthieu M.",
+      "github": "matthieu-m",
+      "github_id": 2420441,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "mods",
+        "members": [
+          10949810,
+          11195266
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "mods",
+        "members": [
+          10949810,
+          11195266
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Moderation team",
+    "description": "Helping uphold the code of conduct and community standards",
+    "page": "moderation",
+    "email": "rust-mods@rust-lang.org",
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  },
+  "discord": []
+}

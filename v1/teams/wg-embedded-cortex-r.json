@@ -1,0 +1,36 @@
+{
+  "name": "wg-embedded-cortex-r",
+  "kind": "working_group",
+  "subteam_of": "wg-embedded",
+  "members": [
+    {
+      "name": "Jorge Aparicio",
+      "github": "japaric",
+      "github_id": 5018213,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-embedded",
+        "name": "wg-embedded-cortex-r",
+        "members": [
+          5018213
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Embedded Cortex-R team",
+    "description": "Develops and maintains the core of the Cortex-R crate ecosystem ",
+    "page": "wg-embedded-cortex-r",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  },
+  "discord": []
+}

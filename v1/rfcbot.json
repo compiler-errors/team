@@ -1,0 +1,184 @@
+{
+  "teams": {
+    "T-IDEs": {
+      "name": "IDEs and editors",
+      "ping": "rust-lang/ides",
+      "members": [
+        "LucasBullen",
+        "Xanewok",
+        "alexheretic",
+        "autozimu",
+        "jasonwilliams",
+        "matklad",
+        "vlad20012"
+      ]
+    },
+    "T-cargo": {
+      "name": "Cargo",
+      "ping": "rust-lang/cargo",
+      "members": [
+        "Eh2406",
+        "ehuss",
+        "epage",
+        "joshtriplett",
+        "weihanglo"
+      ]
+    },
+    "T-compiler": {
+      "name": "Compiler",
+      "ping": "rust-lang/compiler",
+      "members": [
+        "Aaron1011",
+        "cjgillot",
+        "davidtwco",
+        "eddyb",
+        "estebank",
+        "lcnr",
+        "matthewjasper",
+        "michaelwoerister",
+        "nagisa",
+        "nikomatsakis",
+        "oli-obk",
+        "petrochenkov",
+        "pnkfelix",
+        "wesleywiser"
+      ]
+    },
+    "T-core": {
+      "name": "Core",
+      "ping": "rust-lang/core",
+      "members": [
+        "Mark-Simulacrum",
+        "aidanhs",
+        "ashleygwilliams",
+        "badboy",
+        "jntrnr",
+        "rylev"
+      ]
+    },
+    "T-crates-io": {
+      "name": "Crates.io",
+      "ping": "rust-lang/crates-io",
+      "members": [
+        "JohnTitor",
+        "Turbo87",
+        "carols10cents",
+        "jtgeibel",
+        "locks",
+        "pichfl",
+        "smarnach"
+      ]
+    },
+    "T-dev-tools": {
+      "name": "Dev tools",
+      "ping": "rust-lang/dev-tools",
+      "members": [
+        "GuillaumeGomez",
+        "Manishearth",
+        "Xanewok",
+        "ehuss",
+        "fitzgen",
+        "kinnison",
+        "oli-obk"
+      ]
+    },
+    "T-docs-rs": {
+      "name": "Docs.rs",
+      "ping": "rust-lang/docs-rs",
+      "members": [
+        "Byron",
+        "GuillaumeGomez",
+        "Nemo157",
+        "jyn514",
+        "syphar"
+      ]
+    },
+    "T-infra": {
+      "name": "Infrastructure",
+      "ping": "rust-lang/infra",
+      "members": [
+        "Mark-Simulacrum",
+        "aidanhs",
+        "jyn514",
+        "kennytm",
+        "pietroalbini",
+        "shepmaster"
+      ]
+    },
+    "T-lang": {
+      "name": "Language",
+      "ping": "rust-lang/lang",
+      "members": [
+        "cramertj",
+        "joshtriplett",
+        "nikomatsakis",
+        "pnkfelix",
+        "scottmcm"
+      ]
+    },
+    "T-libs": {
+      "name": "Library",
+      "ping": "rust-lang/libs",
+      "members": [
+        "Amanieu",
+        "cuviper",
+        "joshtriplett",
+        "m-ou-se",
+        "yaahc"
+      ]
+    },
+    "T-libs-api": {
+      "name": "Library API",
+      "ping": "rust-lang/libs-api",
+      "members": [
+        "Amanieu",
+        "BurntSushi",
+        "dtolnay",
+        "joshtriplett",
+        "m-ou-se",
+        "yaahc"
+      ]
+    },
+    "T-localization": {
+      "name": "Localization",
+      "ping": "rust-lang/localization",
+      "members": [
+        "JohnTitor",
+        "Manishearth",
+        "vertexclique"
+      ]
+    },
+    "T-moderation": {
+      "name": "Moderation",
+      "ping": "rust-lang/moderation",
+      "members": [
+        "khionu",
+        "technetos"
+      ]
+    },
+    "T-release": {
+      "name": "Release",
+      "ping": "rust-lang/release",
+      "members": [
+        "Dylan-DPC",
+        "Mark-Simulacrum",
+        "cuviper",
+        "pietroalbini",
+        "tmandry"
+      ]
+    },
+    "T-rustdoc": {
+      "name": "Rustdoc",
+      "ping": "rust-lang/rustdoc",
+      "members": [
+        "CraftSpider",
+        "GuillaumeGomez",
+        "Manishearth",
+        "Nemo157",
+        "camelid",
+        "jsha",
+        "notriddle"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "crates-io-on-call",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Jonas Schievink",
+      "github": "jonas-schievink",
+      "github_id": 1786438,
+      "is_lead": false
+    },
+    {
+      "name": "Sebastian Ziebell",
+      "github": "justahero",
+      "github_id": 1305185,
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "github_id": 47542,
+      "is_lead": false
+    },
+    {
+      "name": "Felix Gilcher",
+      "github": "Xylakant",
+      "github_id": 337823,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "crates-io-on-call",
+        "members": [
+          47542,
+          337823,
+          1305185,
+          1786438,
+          2299951
+        ]
+      }
+    ]
+  },
+  "website_data": null,
+  "discord": []
+}

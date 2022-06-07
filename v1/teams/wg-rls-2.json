@@ -1,0 +1,75 @@
+{
+  "name": "wg-rls-2",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "github_id": 1711539,
+      "is_lead": true
+    },
+    {
+      "name": "Florian Diebold",
+      "github": "flodiebold",
+      "github_id": 906069,
+      "is_lead": false
+    },
+    {
+      "name": "Jonas Schievink",
+      "github": "jonas-schievink",
+      "github_id": 1786438,
+      "is_lead": false
+    },
+    {
+      "name": "Laurențiu Nicola",
+      "github": "lnicola",
+      "github_id": 308347,
+      "is_lead": false
+    },
+    {
+      "name": "Lukas Wirth",
+      "github": "Veykril",
+      "github_id": 3757771,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-analyzer",
+        "name": "wg-rls-2",
+        "members": [
+          308347,
+          906069,
+          1711539,
+          1786438,
+          3757771
+        ]
+      },
+      {
+        "org": "rust-lang",
+        "name": "wg-rls-2",
+        "members": [
+          308347,
+          906069,
+          1711539,
+          1786438,
+          3757771
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "RLS 2.0 working group",
+    "description": "Experimenting with a new compiler architecture tailored for IDEs",
+    "page": "wg-rls-2",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/rls-2.0/",
+    "discord": null,
+    "zulip_stream": "t-compiler/rust-analyzer",
+    "weight": 0
+  },
+  "discord": []
+}

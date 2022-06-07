@@ -1,0 +1,75 @@
+{
+  "name": "libs",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Mara Bos",
+      "github": "m-ou-se",
+      "github_id": 783247,
+      "is_lead": true
+    },
+    {
+      "name": "Amanieu d'Antras",
+      "github": "Amanieu",
+      "github_id": 278509,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Stone",
+      "github": "cuviper",
+      "github_id": 36186,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    },
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "libs",
+        "members": [
+          36186,
+          162737,
+          278509,
+          783247,
+          1993852
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "libs",
+        "members": [
+          36186,
+          162737,
+          278509,
+          783247,
+          1993852
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Library team",
+    "description": "Managing and maintaining the Rust standard library and official rust-lang crates",
+    "page": "library",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "t-libs",
+    "weight": 0
+  },
+  "discord": []
+}

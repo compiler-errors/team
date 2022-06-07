@@ -1,0 +1,50 @@
+{
+  "name": "wg-rls-2-triage",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "bjorn3",
+      "github": "bjorn3",
+      "github_id": 17426603,
+      "is_lead": false
+    },
+    {
+      "name": "Edwin Cheng",
+      "github": "edwin0cheng",
+      "github_id": 11014119,
+      "is_lead": false
+    },
+    {
+      "name": "Kirill Bulatov",
+      "github": "SomeoneToIgnore",
+      "github_id": 2690773,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-analyzer",
+        "name": "wg-rls-2-triage",
+        "members": [
+          2690773,
+          11014119,
+          17426603
+        ]
+      },
+      {
+        "org": "rust-lang",
+        "name": "wg-rls-2-triage",
+        "members": [
+          2690773,
+          11014119,
+          17426603
+        ]
+      }
+    ]
+  },
+  "website_data": null,
+  "discord": []
+}

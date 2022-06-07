@@ -1,0 +1,71 @@
+{
+  "name": "wg-nll",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "github_id": 173127,
+      "is_lead": true
+    },
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "github_id": 1295100,
+      "is_lead": false
+    },
+    {
+      "name": "Rémy Rakic",
+      "github": "lqd",
+      "github_id": 247183,
+      "is_lead": false
+    },
+    {
+      "name": "Matthew Jasper",
+      "github": "matthewjasper",
+      "github_id": 20113453,
+      "is_lead": false
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-nll",
+        "members": [
+          52642,
+          155238,
+          173127,
+          247183,
+          1295100,
+          20113453
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Non-Lexical Lifetimes (NLL) working group",
+    "description": "Implementing the new MIR-based borrow checker and non-lexical lifetimes in Rust",
+    "page": "wg-nll",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/nll/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-nll",
+    "weight": 0
+  },
+  "discord": []
+}

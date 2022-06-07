@@ -1,0 +1,57 @@
+{
+  "name": "wg-embedded-linux",
+  "kind": "working_group",
+  "subteam_of": "wg-embedded",
+  "members": [
+    {
+      "name": "Diego Barrios Romero",
+      "github": "eldruin",
+      "github_id": 43125,
+      "is_lead": false
+    },
+    {
+      "name": "Nick Stevens",
+      "github": "nastevens",
+      "github_id": 1500008,
+      "is_lead": false
+    },
+    {
+      "name": "Paul Osborne",
+      "github": "posborne",
+      "github_id": 41714,
+      "is_lead": false
+    },
+    {
+      "name": "Ryan",
+      "github": "ryankurte",
+      "github_id": 860620,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-embedded",
+        "name": "embedded-linux",
+        "members": [
+          41714,
+          43125,
+          860620,
+          1500008
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Embedded Linux team",
+    "description": "The embedded Linux team develops and maintains the core of the embedded Linux crate ecosystem.",
+    "page": "wg-embedded-linux",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  },
+  "discord": []
+}

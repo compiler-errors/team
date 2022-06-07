@@ -1,0 +1,48 @@
+{
+  "name": "rustup",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "github_id": 1469421,
+      "is_lead": true
+    },
+    {
+      "name": "Robert Collins",
+      "github": "rbtcollins",
+      "github_id": 499678,
+      "is_lead": true
+    },
+    {
+      "name": "二手掉包工程师",
+      "github": "hi-rustin",
+      "github_id": 29879298,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "github_id": 762626,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Rustup team",
+    "description": "Designing and implementing rustup",
+    "page": "rustup",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-rustup",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "zulip_stream": null,
+    "weight": 0
+  },
+  "discord": []
+}

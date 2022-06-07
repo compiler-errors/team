@@ -1,0 +1,299 @@
+{
+  "groups": {
+    "T-clippy": {
+      "name": "T-clippy",
+      "members": [
+        {
+          "id": 132040
+        },
+        {
+          "id": 239861
+        },
+        {
+          "id": 264664
+        },
+        {
+          "id": 316507
+        },
+        {
+          "id": 360405
+        },
+        {
+          "id": 369415
+        },
+        {
+          "id": 431151
+        },
+        {
+          "email": "bogusandre@gmail.com"
+        },
+        {
+          "email": "matthias.krueger@famsik.de"
+        }
+      ]
+    },
+    "T-infra": {
+      "name": "T-infra",
+      "members": [
+        {
+          "id": 116122
+        },
+        {
+          "id": 116155
+        },
+        {
+          "id": 121055
+        },
+        {
+          "id": 232545
+        },
+        {
+          "email": "aidanhs@cantab.net"
+        },
+        {
+          "email": "kennytm@gmail.com"
+        }
+      ]
+    },
+    "T-lang": {
+      "name": "T-lang",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116083
+        },
+        {
+          "id": 125270
+        },
+        {
+          "id": 239881
+        },
+        {
+          "email": "cramertaylorj@gmail.com"
+        }
+      ]
+    },
+    "T-libs": {
+      "name": "T-libs",
+      "members": [
+        {
+          "id": 138448
+        },
+        {
+          "id": 220273
+        },
+        {
+          "id": 239881
+        },
+        {
+          "email": "amanieu@gmail.com"
+        },
+        {
+          "email": "m-ou.se@m-ou.se"
+        }
+      ]
+    },
+    "T-libs-api": {
+      "name": "T-libs-api",
+      "members": [
+        {
+          "id": 119235
+        },
+        {
+          "id": 220273
+        },
+        {
+          "id": 239881
+        },
+        {
+          "email": "amanieu@gmail.com"
+        },
+        {
+          "email": "jamslam@gmail.com"
+        },
+        {
+          "email": "m-ou.se@m-ou.se"
+        }
+      ]
+    },
+    "T-release": {
+      "name": "T-release",
+      "members": [
+        {
+          "id": 116122
+        },
+        {
+          "id": 116883
+        },
+        {
+          "id": 120823
+        },
+        {
+          "id": 121055
+        },
+        {
+          "id": 138448
+        }
+      ]
+    },
+    "T-types": {
+      "name": "T-types",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 124288
+        },
+        {
+          "id": 232957
+        },
+        {
+          "id": 426609
+        },
+        {
+          "email": "rust@lcnr.de"
+        }
+      ]
+    },
+    "WG-parallel-rustc": {
+      "name": "WG-parallel-rustc",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116122
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 138448
+        },
+        {
+          "email": "alex@alexcrichton.com"
+        }
+      ]
+    },
+    "WG-prioritization": {
+      "name": "WG-prioritization",
+      "members": [
+        {
+          "id": 116083
+        },
+        {
+          "id": 120823
+        },
+        {
+          "id": 218378
+        },
+        {
+          "id": 218578
+        },
+        {
+          "id": 230287
+        },
+        {
+          "id": 250987
+        },
+        {
+          "id": 256313
+        },
+        {
+          "id": 307537
+        },
+        {
+          "id": 331617
+        },
+        {
+          "id": 342566
+        },
+        {
+          "id": 342568
+        },
+        {
+          "id": 342587
+        },
+        {
+          "id": 342723
+        },
+        {
+          "id": 342744
+        },
+        {
+          "id": 343418
+        },
+        {
+          "id": 345400
+        },
+        {
+          "id": 417924
+        },
+        {
+          "email": "huyuumi.dev@gmail.com"
+        },
+        {
+          "email": "rust@lcnr.de"
+        },
+        {
+          "email": "takoyaki0316@gmail.com"
+        },
+        {
+          "email": "wwiser@gmail.com"
+        }
+      ]
+    },
+    "WG-security-response": {
+      "name": "WG-security-response",
+      "members": [
+        {
+          "id": 121055
+        },
+        {
+          "id": 138448
+        }
+      ]
+    },
+    "WG-triage": {
+      "name": "WG-triage",
+      "members": [
+        {
+          "id": 120823
+        },
+        {
+          "id": 239861
+        },
+        {
+          "id": 307537
+        },
+        {
+          "email": "ben.striegel@gmail.com"
+        },
+        {
+          "email": "crlf0710@gmail.com"
+        },
+        {
+          "email": "edmilson.efs@gmail.com"
+        },
+        {
+          "email": "huyuumi.dev@gmail.com"
+        },
+        {
+          "email": "joelpalmer@gmail.com"
+        },
+        {
+          "email": "johncsimon@gmail.com"
+        },
+        {
+          "email": "owen@devosmium.xyz"
+        }
+      ]
+    }
+  }
+}
